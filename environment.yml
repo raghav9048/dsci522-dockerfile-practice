@@ -5,4 +5,3 @@ dependencies:
   - numpy=1.26.4
   - pandas=2.2.2
   - python=3.11.7
-prefix: C:\Users\ragha\miniforge3\envs\dsci522env
